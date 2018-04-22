@@ -48,18 +48,14 @@ position: relative;
   margin-bottom: 3%;
 }
 
-/*Freecodecamp status */
-.fa-times-circle{
-  color: red;
-}
-
-.results{
-  background-color: #222;
-  border: 1px solid #3b81bf;
-  border-radius: 5px;
-  color: #3B81BF;
-}
-
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
 /*Footer*/
 footer{
   font-family: inherit;
