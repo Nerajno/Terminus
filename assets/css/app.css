@@ -49,14 +49,12 @@ position: relative;
     z-index: -100;
     width:auto;
     height: auto;
+    font-family: 'Roboto', sans-serif;
   }
 
   /*Header*/
   #header{
     text-align: center;
-    /* background-color: rgba(0, 0, 0, 0.75);
-    border-radius: 7px;
-    border:#3B81BF 2px solid; */
     margin-bottom: 3%;
     margin-top: 10%;
     position: absolute;
@@ -64,8 +62,7 @@ position: relative;
     left: 0;
     right: 0;
     bottom: 0;
-
-    /* z-index: 1; */
+    font-family:
   }
 
 /*Footer*/
