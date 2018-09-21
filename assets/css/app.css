@@ -39,23 +39,35 @@ position: relative;
   color: white;
 }
 
-/*Header*/
-#header{
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.75);
-  border-radius: 7px;
-  border:#3B81BF 2px solid;
-  margin-bottom: 3%;
-}
 
-#myVideo {
-    position: fixed;
+#myVideo{
     right: 0;
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
+    position: fixed;
+    z-index: -100;
+    width:auto;
+    height: auto;
   }
-  
+
+  /*Header*/
+  #header{
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 7px;
+    border:#3B81BF 2px solid; */
+    margin-bottom: 3%;
+    margin-top: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    /* z-index: 1; */
+  }
+
 /*Footer*/
 footer{
   font-family: inherit;
