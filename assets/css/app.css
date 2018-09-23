@@ -37,6 +37,7 @@ position: relative;
 
 .container{
   color: white;
+  width: 100%;
 }
 
 
@@ -49,7 +50,6 @@ position: relative;
     z-index: -100;
     width:auto;
     height: auto;
-    font-family: 'Roboto', sans-serif;
   }
 
   /*Header*/
@@ -62,7 +62,7 @@ position: relative;
     left: 0;
     right: 0;
     bottom: 0;
-    font-family:
+font-family: 'Roboto', sans-serif;
   }
 
 /*Footer*/
