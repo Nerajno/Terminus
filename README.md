@@ -10,6 +10,8 @@ A Redirect page for all FreeCodeCamp projects that haven't been completed yet.
 Netlify and Github Pages
 
 Screenshot of the Programme Running
+
+![Image of Screenshot]
 (https://github.com/Nerajno/Terminus/blob/master/Jan_Screen_Shot.png)
 
 https://nerajno.github.io/Terminus
