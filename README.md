@@ -1,6 +1,6 @@
 # Terminus
 
-A Redirect page for all FreeCodeCamp projects that haven't been completed yet. 
+A redirect page for all FreeCodeCamp projects that haven't been completed and a page that shows full image video background.  
 
 ### Built with :
 * BootStrap 
