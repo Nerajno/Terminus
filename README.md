@@ -9,7 +9,7 @@ A redirect page for all FreeCodeCamp projects that haven't been completed and a 
 ### Hosted on : 
 **Netlify** and **Github Pages**
 
-Screenshot of the Programme Running
+Screenshot of the Page Running
 ![Image of Screenshot](https://github.com/Nerajno/Terminus/blob/master/Jan_Screen_Shot.png)
 
 
