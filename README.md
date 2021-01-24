@@ -18,5 +18,5 @@ Screenshot of the Page Running
 ![Image of Screenshot](https://github.com/Nerajno/Terminus/blob/master/Jan_Screen_Shot.png)
 
 
-Current Status
+Current Netlify Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b44ca342-e25e-47cb-8522-946b72944f94/deploy-status)](https://app.netlify.com/sites/nerajnoterminus/deploys)
