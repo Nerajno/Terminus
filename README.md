@@ -9,10 +9,9 @@ Completely mobile compatible.
 
 ### Hosted on : 
 **Netlify** https://nerajnoterminus.netlify.com/ 
-
 and 
-
-**Github Pages** https://nerajno.github.io/Terminus
+also 
+**Github Pages** https://nerajno.github.io/Terminus (Test Purposes)
 
 Screenshot of the Page Running
 ![Image of Screenshot](https://github.com/Nerajno/Terminus/blob/master/Jan_Screen_Shot.png)
