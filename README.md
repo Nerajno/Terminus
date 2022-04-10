@@ -7,8 +7,8 @@ A redirect page for all FreeCodeCamp projects that haven't been completed, it co
 * FontAwesome
 
 ### Hosted on : 
-- [x]**Netlify** https://nerajnoterminus.netlify.com/  
-- [x]**Github Pages** https://nerajno.github.io/Terminus (Test Purposes)
+-[x]**Netlify** https://nerajnoterminus.netlify.com/  
+-[x]**Github Pages** https://nerajno.github.io/Terminus (Test Purposes)
 
 Screenshot of the Page Running
 ![Image of Screenshot](https://github.com/Nerajno/Terminus/blob/master/Jan_Screen_Shot.png)
